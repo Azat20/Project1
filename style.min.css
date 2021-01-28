@@ -1,0 +1,24 @@
+header{background:url(img/bg1.png);width:100%;height:650px}
+header nav{padding-top:25px}
+header nav .menu_txt{text-align:center;color:#fff;margin:0}
+header nav .menu_title{margin:0;text-align:center;color:#fff;font-size:18px}
+header nav .menu_tel{text-decoration:none;color:#fff}
+header nav .menu_btn{width:151px;height:31px;background:#c70101;border-radius:10px;color:#fff;text-align:center;text-transform:uppercase;font-size:14px;padding-top:5px}
+header nav .menu_block{padding-top:91px}
+header nav .menu_block_title{text-transform:uppercase;color:#fff;font-size:42px;text-align:right;font-weight:500}
+header nav .menu_block_txt{text-transform:uppercase;color:#fff;text-align:right;font-size:24px;font-weight:500}
+header nav .menu_block_hour{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around;margin-top:50px}
+header nav .menu_block_sms_img{padding-left:30px}
+header nav .menu_block_sms_txt{padding-top:10px;text-align:center;color:#fff;font-size:14px}
+header nav .menu_block .menu_btn2{width:301px;height:51px;background:#c70101;border-radius:5px;float:right;color:#fff;text-align:center;font-size:16px;text-transform:uppercase;padding-top:13px;margin-top:30px}
+header nav .menu_block_link{color:#fff;text-align:right;font-size:16px;text-decoration:underline;margin-left:915px;margin-top:20px}
+.main_title{text-align:center;margin-top:73px}
+.main_img{width:70px;height:70px;margin-left:136px;margin-top:50px}
+.main_h4{text-align:center;margin-top:25px}
+.main_text{text-align:center;margin-top:20px}
+span{color:red}
+section{background:url(img/bg2.png);width:100%;height:679px;margin-top:95px}
+section .section_title{color:#fff;padding-top:50px}
+section .section_h4{color:#fff;padding-top:60px;margin-bottom:60px}
+section .section_form{width:301px;height:51px;background:#fff;border:none;padding-left:20px;border-radius:6px;margin-top:20px;display:block}
+section .section_block{width:301px;height:51px;background:#c70101;border-radius:5px;color:#fff;text-align:center;font-size:16px;text-transform:uppercase;padding-top:13px;margin-top:20px}
