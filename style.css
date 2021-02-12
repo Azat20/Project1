@@ -133,7 +133,97 @@ section {
   padding-top: 50px;
   padding-bottom: 50px; }
 
-.section_title2 {
+main .section_title2 {
   text-align: center;
   text-transform: uppercase;
   margin-top: 40px; }
+main .main_blocks {
+  width: 75%;
+  height: 20%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 7%; }
+  main .main_blocks .tips {
+    width: 250px;
+    height: 50px;
+    border: 1px solid #D0D0D0;
+    margin-left: 2%;
+    -webkit-transform: skewX(-27deg);
+            transform: skewX(-27deg); }
+    main .main_blocks .tips:hover {
+      background-color: red; }
+    main .main_blocks .tips h3 {
+      text-align: center;
+      font-size: 18px;
+      color: #6B6B6B;
+      text-transform: uppercase;
+      padding-top: 6%;
+      -webkit-transform: skewX(27deg);
+              transform: skewX(27deg); }
+      main .main_blocks .tips h3:hover {
+        color: #fff; }
+main .card_clocks {
+  width: 315px;
+  height: 460px;
+  border: 1px solid #E8E8E8;
+  margin-top: 20%;
+  position: relative; }
+  main .card_clocks:after {
+    content: " ";
+    position: absolute;
+    width: 260px;
+    height: 2px;
+    background-color: #E8E8E8;
+    margin-top: -14%;
+    margin-left: -80%; }
+  main .card_clocks_img {
+    padding-left: 27%;
+    padding-top: 7%; }
+  main .card_clocks h4 {
+    text-align: center;
+    font-size: 16px;
+    color: #0D0D0D;
+    padding-top: 5%; }
+  main .card_clocks p {
+    text-align: center;
+    color: #0D0D0D;
+    font-size: 14px; }
+  main .card_clocks a {
+    text-align: center;
+    color: #C70101;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 35%;
+    text-decoration: underline; }
+  main .card_clocks h6 {
+    color: #555555;
+    font-size: 14px;
+    opacity: 0.7;
+    text-decoration: line-through;
+    padding-left: 12%;
+    padding-top: 12%; }
+  main .card_clocks h3 {
+    color: #050505;
+    font-size: 20px;
+    padding-left: 10%;
+    display: inline-block; }
+  main .card_clocks button {
+    background-color: #C70101;
+    width: 132px;
+    height: 40px;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 6%;
+    margin-top: -2%; }
+  main .card_clocks ul {
+    color: #555555;
+    font-size: 16px;
+    margin-top: 6%;
+    margin-bottom: 20%; }
+    main .card_clocks ul li {
+      color: red; }
+
+/*# sourceMappingURL=style.css.map */
